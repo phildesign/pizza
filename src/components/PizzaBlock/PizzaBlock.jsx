@@ -35,7 +35,7 @@ const PizzaBlock = () => {
 						/>
 					</svg>
 					<span>Добавить</span>
-					<i>{counter}</i>
+					<i>2</i>
 				</button>
 			</div>
 		</div>
